@@ -15,3 +15,4 @@ A place for direct discussion with Flutter mentors on the Flutter Delux channel.
     like "This function throw Number Format Exception"
   - Put your `flutter doctor -v` console/terminal (copy your log / can be screenshot)
   - Screenshot console about error/bug/issue. Usually have color red for error and yellow for warning
+  - Screenshot another attachment as resource research
