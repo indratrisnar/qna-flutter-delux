@@ -5,7 +5,7 @@ A place for direct discussion with Flutter mentors on the Flutter Delux channel.
 ## Format ask
 
 - Open Issue Tab
-- Find / Search Issue similar, if you find it. Ho check it out. If you don't? create new issue.
+- Find / Search Issue similar, if you find it. Go check it out. If you don't? create new issue.
 - In the "Title". must be contain your short bug/error/issue info
 - In the "Body":
   - Describe what you are doing / what you wan to do
